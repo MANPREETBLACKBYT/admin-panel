@@ -1,15 +1,13 @@
 <template>
-<div class="container-fluid">
+
     <div class="row">
-<div class="col-2 bg-dark">
+<div class="col-2 ">
     <Home />
 </div>
     
 
     <div class="col-10 text-dark text-start bg-light">
-      
-        
-        <div
+       <div
           class="container-fluid text-black border-bottom"
           style="height: 80px"
         >
@@ -32,13 +30,13 @@
   <div class="row mb-4 ms-5">
     <label for="inputEmail3" class="col-sm-5 ms-3 col-form-label">Location Type :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="country">
+      <label for="text" class="form-control p-2" >country</label>
     </div>
   </div>
   <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">State :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="Punjab">
+      <label for="text" class="form-control p-2" >Punjab</label>
     </div>
   </div>
 
@@ -49,13 +47,13 @@
   <div class="row mb-4 ms-5">
     <label for="inputEmail3" class="col-sm-5 ms-3 col-form-label">Location Type :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="country">
+      <label for ="text" class="form-control p-2" >country</label>
     </div>
   </div>
   <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">State :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="Punjab">
+      <label for="text" class="form-control p-2">Punjab</label>
     </div>
   </div>
 <hr>
@@ -63,27 +61,27 @@
   <div class="row mb-4 ms-5">
     <label for="inputEmail3" class="col-sm-5 ms-3 col-form-label">Audience :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="All Economy Profile">
+      <label for ="text" class="form-control p-2" >All Economy Profile</label>
     </div>
   </div>
   <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">Gender :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="All">
+      <label for ="text" class="form-control p-2" >All</label>
     </div>
   </div>
 
       <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">Min age :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control"  value="12">
+      <label for ="text" class="form-control p-2">12</label>
     </div>
       
       </div>
           <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">Max age :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="64">
+      <label for ="text" class="form-control p-2" >64</label>
     </div>
           </div>
   <hr>
@@ -92,13 +90,13 @@
   <div class="row mb-4 ms-5">
     <label for="inputEmail3" class="col-sm-5 ms-3 col-form-label">Platfroms :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="All">
+      <label for ="text" class="form-control p-2">All</label>
     </div>
   </div>
   <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">Objectives :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="All">
+      <label for ="text" class="form-control p-2" >All</label>
     </div>
   </div>
 
@@ -109,20 +107,20 @@
   <div class="row mb-4 ms-5">
     <label for="inputEmail3" class="col-sm-5 ms-3 col-form-label">Budget :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="Budget">
+      <label for ="text" class="form-control p-2" >Budget</label>
     </div>
   </div>
   <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">Start Date :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="12">
+      <label for ="text" class="form-control p-2" >12</label>
     </div>
   </div>
 
       <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">Select Time :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control"  value="64">
+      <label for ="text" class="form-control p-2"  >64</label>
     </div>
       
      
@@ -132,13 +130,13 @@
   <div class="row mb-4 ms-5">
     <label for="inputEmail3" class="col-sm-5 ms-3 col-form-label"> Heading :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="Ad Heading">
+      <label for ="text" class="form-control p-2" >Ad Heading</label>
     </div>
   </div>
   <div class="row mb-4 ms-5">
     <label for="inputPassword3" class="col-sm-5 ms-3 col-form-label">Ad Description :</label>
     <div class="col-sm-5">
-      <input type="text" class="form-control" value="Description">
+      <label for ="text" class="form-control p-2" >Description</label>
     </div>
   </div>
 
@@ -188,7 +186,7 @@
 </div>
         </div>
 </div>
-    </div>
+ 
    
 
 
