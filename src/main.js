@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
 import App from './App.vue';
-import Header from './components/Header.vue';
+import Dashboard from './components/Dashboard.vue';
 import DataFile from './components/DataFile.vue'
 
 const routes = [
@@ -10,8 +10,8 @@ const routes = [
  
   {
       path:'/',
-      name:'Header',
-      component: Header
+      name:'Dashboard',
+      component: Dashboard
   },
     {
         path:'/DataFile',

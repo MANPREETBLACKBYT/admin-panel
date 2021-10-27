@@ -147,7 +147,7 @@
 
    </form>
     </div>
-     <div class="col-6   py-5">
+     <div class="col-6 mt-5  py-5">
         <div class="container  ">
   <div class="row gap-3  ">
     <div class="col-12 border py-3  text-center">
@@ -155,7 +155,7 @@
             <div><img src="../assets/1.jpg" style="width:300px" class="mb-3"></div>
     </div>
     <div class="col-12 border text-center">
-       <div class="fw-bold fs-4 py-3">Multiple Image</div> 
+       <div class="fw-bold fs-4 p-2">Multiple Image</div> 
         <div class="row mt-2 ">
                 <div class="col-5">
                   <img src="../assets/3.jpg"  style="width:200px">
