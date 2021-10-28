@@ -4,7 +4,7 @@
       <div class="col-2 bg-dark">
         <Home />
       </div>
-      <div class="col-10 text-dark text-start bg-light">
+      <div class="col-md-10 text-dark text-start bg-light">
         <div
           class="container-fluid text-black border-bottom"
           style="height: 80px"

@@ -12,13 +12,20 @@
           <div class="p-2">Budget</div>
           <div class="p-2">Ad Description</div>
         </div>
+        
       </div>
     </div>
+
+    
   </router-link>
 </template>
 <script>
+
+
 export default {
-  components: {},
+  components: {
+   
+  },
 };
 </script>
 

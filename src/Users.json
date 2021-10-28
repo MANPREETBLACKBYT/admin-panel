@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+   
+    "city":"Country",
+    "State":"Punjab",
+    "Audience" :"All Economy Profile",
+    "Gender":"All",
+    "Minage":"12",
+    "Maxage":"64",
+    "Platforms":"All",
+    "Objectives":"All",
+    "Budget":"Budget",
+    "Date":"12",
+    "Time":"64",
+    "Heading":"Ad Heading",
+    "Description":"Description"
+  }
+
+]

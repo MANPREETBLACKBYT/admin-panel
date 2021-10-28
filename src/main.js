@@ -10,6 +10,7 @@ import Icon from './components/Icon.vue';
 import GoogleMap from './components/GoogleMap.vue';
 import BlankPage from './components/BlankPage.vue';
 import LastPage from './components/LastPage.vue';
+import Pages from './components/Pages.vue'
 const routes = [
   
    
@@ -58,7 +59,13 @@ const routes = [
       path:'/LastPage',
       name:'LastPage',
       component : LastPage
+    },
+    {
+      path:'/Pages',
+      name:'Pages',
+      component : Pages
     }
+    
   
 ];
 const router = createRouter({

@@ -76,7 +76,7 @@
           </li>
         </router-link>
 
-        <router-link to="/Icon" class="text-decoration-none text-dark">
+        <router-link to="/GoogleMap" class="text-decoration-none text-dark">
           <li>
             <a href="" data-bs-toggle="collapse" class="nav-link align-middle">
               <i class="bi bi-google text-white p-2"></i>
